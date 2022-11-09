@@ -1,0 +1,4 @@
+$ python current_year_month.py
+today: 2022-11-09 13:44:25.812848
+year: 2022
+month: 11
