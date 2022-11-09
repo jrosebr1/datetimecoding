@@ -1,0 +1,11 @@
+$ python current_date_time.py
+now: 2022-11-09 10:13:51.607734
+date: 2022-11-09
+time: 10:13:51.607734
+year: 2022
+month: 11
+day: 9
+hour: 10
+minute: 13
+second: 51
+microsecond: 607734
