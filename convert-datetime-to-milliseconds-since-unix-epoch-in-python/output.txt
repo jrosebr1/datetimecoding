@@ -1,0 +1,8 @@
+$ python milliseconds_since_unix_epoch.py
+unix epoch: 1970-01-01 00:00:00+00:00
+now: 2022-11-09 15:58:09.050070+00:00
+seconds: 1668009489.05007
+milliseconds: 1668009489050.07
+birthday: 1988-12-07 12:07:43+00:00
+seconds: 597499663.0
+milliseconds: 597499663000.0
