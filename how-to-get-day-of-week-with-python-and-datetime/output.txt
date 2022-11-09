@@ -1,0 +1,6 @@
+$ python day_of_week.py
+now: 2022-11-09 10:22:03.838781
+weekday integer: 2
+weekday name: Wednesday
+christmas integer: 6
+christmas name: Sunday
