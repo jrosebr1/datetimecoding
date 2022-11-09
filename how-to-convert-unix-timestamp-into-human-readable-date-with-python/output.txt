@@ -1,0 +1,14 @@
+$ python unix_ts_to_human_readable.py
+1988-12-06 19:00:00
+1988-12-07 00:00:00+00:00
+year: 1988
+month: 12
+day: 7
+hour: 0
+minute: 0
+second: 0
+timezone: UTC
+12/07/88
+Dec 07 1988
+1988-12-07 00:00
+Wednesday, December 7 1988 at 0:00:00AM UTC
