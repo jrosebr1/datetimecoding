@@ -1,0 +1,10 @@
+$ python unix_timestamp_python.py
+time unix timestamp: 1668008435.776484
+now: 2022-11-09 10:40:35.776553
+datetime unix timestamp: 1668008435.776553
+now: 2022-11-09 10:40:35.776596
+timetuple unix timestamp: 1668008435.776553
+utc thanksgiving: 2022-11-24 13:05:00+00:00
+utc thanksgiving unix timestamp: 1669295100.0
+local thanksgiving: 2022-11-24 13:05:00
+local thanksgiving unix timestamp: 1669313100.0
