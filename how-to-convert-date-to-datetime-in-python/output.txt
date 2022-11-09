@@ -1,0 +1,5 @@
+$ python date_to_datetime.py
+<class 'datetime.date'>
+today: 2022-11-09
+<class 'datetime.datetime'>
+date to datetime: 2022-11-09 00:00:00

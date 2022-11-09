@@ -1,0 +1,9 @@
+$ python datetime_to_time.py
+now: 2022-11-09 17:07:50.365441
+<class 'datetime.time'>
+time only: 17:07:50.365441
+hour: 17
+minute: 7
+second: 50
+microsecond: 365441
+time zone: None

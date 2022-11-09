@@ -1,0 +1,7 @@
+$ python datetime_to_date.py
+now: 2022-11-09 17:06:48.435504
+<class 'datetime.date'>
+date only: 2022-11-09
+year: 2022
+month: 11
+day: 9
