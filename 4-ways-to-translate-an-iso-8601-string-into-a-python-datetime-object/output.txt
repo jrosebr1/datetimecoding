@@ -1,0 +1,40 @@
+$ python parse_iso8601.py
+standard datetime
+=================
+year: 2014
+month: 1
+day: 7
+hour: 15
+minute: 50
+second: 0
+time zone: UTC-04:00
+
+dateutil
+========
+year: 2014
+month: 1
+day: 7
+hour: 15
+minute: 50
+second: 0
+time zone: None
+
+pendulum
+========
+year: 2014
+month: 1
+day: 7
+hour: 15
+minute: 50
+second: 0
+time zone: -04:00
+
+arrow
+=====
+year: 2014
+month: 1
+day: 7
+hour: 15
+minute: 50
+second: 0
+time zone: None
