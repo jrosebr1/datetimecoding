@@ -1,0 +1,5 @@
+$ python current_date_and_time.py
+datetime now: 2022-11-10 12:42:22.299716
+date and time combined now: 2022-11-10 12:42:22.299716
+pendulum now: 2022-11-10 12:42:22.299716
+arrow now: 2022-11-10 12:42:22.299716
