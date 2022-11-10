@@ -1,0 +1,9 @@
+$ python current_time.py
+using datetime: 2022-11-10 13:43:06.220921
+using datetime and time: 13:43:06
+time formatted: 13:43:06
+using datetime and pytz: 2022-11-11 03:43:06.294836+09:00
+using pendulum: 13:43:06.300622
+using pendulum w/ time zone: 00:13:06.300681
+using arrow: 13:43:06.303057
+using arrow w/ time zone: 10:43:06.308946
