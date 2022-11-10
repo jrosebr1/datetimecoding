@@ -1,0 +1,15 @@
+$ python datetime_diff.py
+first time zone naive date: 2022-11-01 07:00:05
+second time zone naive date: 2020-01-01 00:00:00
+naive diff: 1035 days, 7:00:05
+naive days: 1035
+naive total seconds: 89449205.0
+first time zone aware date: 2022-11-10 13:13:13-04:56
+second time zone aware date: 2020-03-11 10:00:00+00:00
+aware diff: 974 days, 8:09:13
+aware days: 974
+aware total seconds: 84182953.0
+Traceback (most recent call last):
+  File "datetime_diff.py", line 37, in <module>
+    diff = aware_dt_a - naive_dt_b
+TypeError: can't subtract offset-naive and offset-aware datetimes

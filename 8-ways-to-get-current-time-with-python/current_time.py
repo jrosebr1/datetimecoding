@@ -26,8 +26,8 @@ print("time formatted: {}".format(time_formatted))
 
 # using pytz we can grab the time in a specific time zone with
 # datetime
-tz_xyz = pytz.timezone("Asia/Tokyo")
-now_dt_tz = datetime.now(tz=tz_xyz)
+tokyo_tz = pytz.timezone("Asia/Tokyo")
+now_dt_tz = datetime.now(tz=tokyo_tz)
 print("using datetime and pytz: {}".format(now_dt_tz))
 
 # pendulum can also be easily used to grab the current time
