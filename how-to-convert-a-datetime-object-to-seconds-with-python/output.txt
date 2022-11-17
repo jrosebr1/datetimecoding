@@ -1,6 +1,0 @@
-$ python datetime_to_seconds.py
-unix epoch: 1970-01-01 00:00:00+00:00
-input datetime: 2005-07-04 14:33:21+00:00
-total seconds: 1120487601.0
-another datetime: 2003-12-24 23:59:59+00:00
-total seconds: 48177202.0
