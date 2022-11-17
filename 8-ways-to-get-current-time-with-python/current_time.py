@@ -7,8 +7,8 @@ import arrow
 import pytz
 import time
 
-# grab the current time using datetime and then create a string for
-# *only* the time portion
+# grab the current time using datetime and display the result
+# to our screen
 now_dt = datetime.now()
 print("using datetime: {}".format(now_dt))
 
