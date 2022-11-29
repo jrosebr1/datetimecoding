@@ -42,8 +42,8 @@ print("local: {}".format(now))
 # construct a timezone for Tokyo (UTC+9) and then use the timezone object
 # to derive what time it currently is in Tokyo
 tokyo_tz = timezone(timedelta(hours=9))
-toyko_now = datetime.now(tz=tokyo_tz)
-print("toyko: {}".format(toyko_now))
+tokyo_now = datetime.now(tz=tokyo_tz)
+print("toyko: {}".format(tokyo_now))
 
 # use pendulum to grab the current date and time in Tokyo
 tokyo_now_pendulum = pendulum.now(tz="Asia/Tokyo")

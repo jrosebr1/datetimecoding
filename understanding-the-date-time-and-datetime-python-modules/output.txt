@@ -1,0 +1,22 @@
+$ python date_time_datetime.py
+date: 2019-03-03
+year: 2019
+month: 3
+day: 3
+today: 2022-11-29
+today alternative: 2022-11-29 13:37:33.798142
+time: 04:32:09
+hour: 4
+minute: 32
+second: 9
+us east: 2022-11-29 13:37:33.798173-05:00
+now: 2022-11-29 13:37:33.798516
+datetime example: 2018-06-02 02:47:34
+year: 2018
+month: 6
+day: 2
+hour: 2
+minute: 47
+second: 34
+microsecond: 0
+tz info: None
