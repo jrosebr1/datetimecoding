@@ -1,0 +1,9 @@
+$ python datetime_aware_and_naive.py
+datetime: 2022-11-29 13:24:29.192063
+is_tz_aware: False
+datetime: 2022-11-29 18:24:29.192133+00:00
+is_tz_aware: True
+local: 2022-11-29 13:24:29.192147
+toyko: 2022-11-30 03:24:29.192156+09:00
+tokyo pendulum: 2022-11-30T03:24:29.192165+09:00
+arrow pendulum: 2022-11-30T03:24:29.192836+09:00
