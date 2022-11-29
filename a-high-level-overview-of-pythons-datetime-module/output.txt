@@ -4,6 +4,7 @@ time: 13:59:24
 now: 2022-11-29 13:48:25.831190
 earlier: 2016-11-06 08:43:02
 later: 2017-10-31 04:14:50
+>>> datetime.timedelta(days=358, seconds=70308)
 elapsed days: 358
 elapsed seconds: 70308
 utc now: 2022-11-29 18:48:25.831218+00:00
