@@ -19,7 +19,7 @@ def display_parsed_iso8601(name, dt):
     print("day: {}".format(dt.day))
     print("hour: {}".format(dt.hour))
     print("minute: {}".format(dt.minute))
-    print("second: {}".format(dt.second))
+    print("second: {}".format(dt.second_date))
     print("time zone: {}\n".format(dt.tzname()))
 
 
