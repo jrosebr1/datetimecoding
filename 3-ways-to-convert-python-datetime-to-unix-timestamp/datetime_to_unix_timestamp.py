@@ -17,7 +17,7 @@ print("datetime timestamp: {}".format(dt_ts))
 # not available
 mktime_now = datetime.now()
 mktime_ts = mktime(mktime_now.timetuple())
-print("mktime timestamp: {}".format(dt_ts))
+print("mktime timestamp: {}".format(mktime_ts))
 
 # use pendulum to grab the current date and time, convert it to a unix
 # timestamp, and then display the integer portion of the timestamp only,

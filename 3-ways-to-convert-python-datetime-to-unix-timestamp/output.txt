@@ -1,6 +1,6 @@
 $ python datetime_to_unix_timestamp.py
 datetime timestamp: 1670265687.605503
-mktime timestamp: 1670265687.605503
+mktime timestamp: 1670265687.0
 pendulum timestamp: 1670265687.609568
 pendulum int timestamp: 1670265687
 arrow timestamp: 1670265687.609636
