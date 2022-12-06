@@ -1,0 +1,8 @@
+$ python reminders.py
+now: 2022-12-06 11:10:47.118702
+reminder date: 2022-12-06 11:10:57.118702
+waiting for reminder to go off...
+REMINDER!!! (2022-12-06 11:10:57.150984)
+new reminder date: 2022-12-06 11:14:00
+waiting for reminder to go off...
+REMINDER!!! (2022-12-06 11:14:00.687876)
