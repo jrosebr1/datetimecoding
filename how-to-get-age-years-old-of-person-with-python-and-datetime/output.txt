@@ -1,0 +1,2 @@
+$ python age_of_person.py
+born: 1988-12-07, age: 33
