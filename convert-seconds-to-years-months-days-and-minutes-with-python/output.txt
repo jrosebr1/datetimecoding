@@ -1,0 +1,28 @@
+$ python convert_seconds.py
+now: 2022-12-06 10:31:06.706228
+then: 2022-12-01 00:00:00
+converted: OrderedDict([
+    ('years', 0.0),
+    ('days', 5.0)
+    ('hours', 10.0),
+    ('minutes', 31.0)
+    ('seconds', 6.706227999995463)
+])
+now: 2022-12-06 10:31:06.706228
+then: 1995-04-24 07:38:38
+converted: OrderedDict([
+    ('years', 27.0),
+    ('days', 233.0),
+    ('hours', 2.0),
+    ('minutes', 52.0),
+    ('seconds', 28.706228017807007)
+])
+now: 2022-12-06 10:31:06.706228
+then: 2025-03-18 17:45:01
+converted: OrderedDict([
+    ('years', 2.0),
+    ('days', 103.0),
+    ('hours', 7.0),
+    ('minutes', 13.0),
+    ('seconds', 54.293771997094154)
+])
