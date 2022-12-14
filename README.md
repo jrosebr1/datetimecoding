@@ -5,8 +5,8 @@ This repo contains code for all date, time, and time zone tutorials published on
 ## Blog Posts and Code
 | **Blog Post** | **Code** |
 |---|---|
-|[How to get day of week with Python and datetime](https://datetimecoding.com/how-to-get-day-of-week-with-python-and-datetime/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-get-day-of-week-with-python-and-datetime) |
 |[How to convert datetime to date with Python](https://datetimecoding.com/how-to-convert-datetime-to-date-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-convert-datetime-to-date-with-python) |
+|[How to get day of week with Python and datetime](https://datetimecoding.com/how-to-get-day-of-week-with-python-and-datetime/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-get-day-of-week-with-python-and-datetime) |
 |[How to manually create a datetime object with Python](https://datetimecoding.com/how-to-manually-create-a-datetime-object-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-manually-create-a-datetime-object-with-python) |
 |[How to use Python’s datetime to get the current year and month](https://datetimecoding.com/how-to-use-pythons-datetime-to-get-the-current-year-and-month/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-use-pythons-datetime-to-get-the-current-year-and-month)  |
 |[4 ways to get the current date and time using Python](https://datetimecoding.com/4-ways-to-get-the-current-date-and-time-using-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/4-ways-to-get-the-current-date-and-time-using-python)  |
