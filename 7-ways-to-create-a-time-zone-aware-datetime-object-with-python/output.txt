@@ -1,0 +1,10 @@
+$ python tz_aware_methods.py
+2022-12-15 10:38:36.319694 (naive)
+2022-12-15 15:38:36.319756+00:00 (aware in UTC time zone)
+2022-12-15 07:38:36.348546-08:00 (PST time zone)
+2022-12-15 18:38:36.348746+03:00 (Qatar time zone)
+2022-12-15T10:38:36.352763-05:00 (pendulum w/ aware datetime)
+2022-12-15T10:38:36.352827-05:00 (arrow w/ aware datetime)
+2010-06-25 02:33:03+02:05 (pytz aware in Cairo time zone)
+1997-08-02T06:33:20+02:00 (pendulum aware in Madrid time zone)
+2015-01-09T12:42:47+05:00 (arrow aware in Maldives time zone)
