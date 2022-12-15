@@ -1,0 +1,22 @@
+$ python humanize_time_diff.py
+now: 2022-12-15T17:54:05.824948-05:00
+delta: 2022-12-14T17:54:05.824948-05:00
+humanized: 1 day ago
+now: 2022-12-15T17:54:05.824948-05:00
+delta: 2022-12-10T00:54:05.824948-05:00
+humanized: 5 days ago
+now: 2022-12-15T17:54:05.824948-05:00
+delta: 2022-12-15T21:10:06.824948-05:00
+humanized: in 3 hours
+now: 2022-12-15T17:54:05.825481-05:00
+delta: 2022-12-29T17:54:05.825481-05:00
+humanized: in 2 weeks
+now: 2022-12-15T17:54:05.825481-05:00
+delta: 2022-12-15T07:54:05.825481-05:00
+humanized: 10 hours ago
+now: 2022-12-15T17:54:05.825481-05:00
+delta: 2022-12-21T18:17:00.825481-05:00
+humanized: in 8662 minutes
+now: 2022-12-15T17:54:05.825481-05:00
+delta: 2022-12-09T17:31:10.825481-05:00
+humanized: 6 days and 22 minutes ago
