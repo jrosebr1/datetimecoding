@@ -1,0 +1,10 @@
+$ python convert_local_to_utc.py
+2022-12-15 10:09:40.536714 (local time)
+-5.0 (utc offset)
+2022-12-15 15:09:40.536714 (naive utc conversion)
+2022-12-15 15:09:40.536714+00:00 (datetime utc conversion)
+2022-12-15 15:09:40.536714+00:00 (pytz utc conversion)
+2022-12-15T10:09:40.543053-05:00 (pendulum local time)
+2022-12-15T15:09:40.543053+00:00 (pendulum utc conversion)
+2022-12-15T10:09:40.543206-05:00 (arrow local time)
+2022-12-15T15:09:40.543206+00:00 (arrow utc conversion)
