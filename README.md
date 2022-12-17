@@ -5,6 +5,9 @@ This repo contains code for all date, time, and time zone tutorials published on
 ## Blog Posts and Code
 | **Blog Post** | **Code** |
 |---|---|
+|[Comparing datetime objects with Python](https://datetimecoding.com/comparing-datetime-objects-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/comparing-datetime-objects-with-python) |
+|[How to convert date to datetime in Python](https://datetimecoding.com/how-to-convert-date-to-datetime-in-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-convert-date-to-datetime-in-python) |
+|[How to convert datetime to time with Python](https://datetimecoding.com/how-to-convert-datetime-to-time-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-convert-datetime-to-time-with-python) |
 |[How to convert datetime to date with Python](https://datetimecoding.com/how-to-convert-datetime-to-date-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-convert-datetime-to-date-with-python) |
 |[How to get day of week with Python and datetime](https://datetimecoding.com/how-to-get-day-of-week-with-python-and-datetime/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-get-day-of-week-with-python-and-datetime) |
 |[How to manually create a datetime object with Python](https://datetimecoding.com/how-to-manually-create-a-datetime-object-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-manually-create-a-datetime-object-with-python) |
