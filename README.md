@@ -5,6 +5,9 @@ This repo contains code for all date, time, and time zone tutorials published on
 ## Blog Posts and Code
 | **Blog Post** | **Code** |
 |---|---|
+|[3 ways to get Unix timestamp with Python](https://datetimecoding.com/3-ways-to-get-unix-timestamp-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/3-ways-to-get-unix-timestamp-with-python) |
+|[4 ways to translate an ISO 8601 string into a Python datetime object](https://datetimecoding.com/4-ways-to-translate-an-iso-8601-string-into-a-python-datetime-object/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/4-ways-to-translate-an-iso-8601-string-into-a-python-datetime-object) |
+|[8 ways to get current time with Python](https://datetimecoding.com/8-ways-to-get-current-time-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/8-ways-to-get-current-time-with-python) |
 |[Comparing datetime objects with Python](https://datetimecoding.com/comparing-datetime-objects-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/comparing-datetime-objects-with-python) |
 |[How to convert date to datetime in Python](https://datetimecoding.com/how-to-convert-date-to-datetime-in-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-convert-date-to-datetime-in-python) |
 |[How to convert datetime to time with Python](https://datetimecoding.com/how-to-convert-datetime-to-time-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-convert-datetime-to-time-with-python) |
