@@ -44,7 +44,7 @@ print("now: {}".format(now))
 print("then: {}".format(then))
 
 # ...which is the same as *adding* a timedelta with a *negative* attribute
-then = now + timedelta(days=-3)
 now = datetime.now()
+then = now + timedelta(days=-3)
 print("now: {}".format(now))
 print("then: {}".format(then))
