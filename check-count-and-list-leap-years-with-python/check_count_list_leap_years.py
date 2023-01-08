@@ -16,7 +16,6 @@ for year in range(1990, datetime.now().year + 1):
     leap = calendar.isleap(year)
     print("Q. Is {} a leap year? A. {}".format(year, leap))
 
-
 # set the start and end year range we are interested in
 start_year = 1995
 end_year = 2022
