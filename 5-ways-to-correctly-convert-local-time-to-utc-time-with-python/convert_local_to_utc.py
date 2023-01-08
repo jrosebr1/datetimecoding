@@ -16,7 +16,7 @@ print("{} (local time)".format(local_time))
 
 # a verbose (and potentially buggy) way of converting a datetime object
 # to UTC time is to first determine the UTC offset (converting seconds
-# to hours), and then use a timedelta object to correct for the UTC\
+# to hours), and then use a timedelta object to correct for the UTC
 # offset
 utc_offset = time.timezone if time.localtime().tm_isdst == 0 \
     else time.altzone
