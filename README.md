@@ -5,6 +5,7 @@ This repo contains code for all date, time, and time zone tutorials published on
 ## Blog Posts and Code
 | **Blog Post** | **Code** |
 |---|---|
+|[Understanding timedelta objects in Python](https://datetimecoding.com/understanding-timedelta-objects-in-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/understanding-timedelta-objects-in-python) |
 |[How to find difference between two datetime objects in Python](https://datetimecoding.com/how-to-find-difference-between-two-datetime-objects-in-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-find-difference-between-two-datetime-objects-in-python) |
 |[3 ways to convert Python datetime to Unix timestamp](https://datetimecoding.com/3-ways-to-convert-python-datetime-to-unix-timestamp/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/3-ways-to-convert-python-datetime-to-unix-timestamp) |
 |[How to convert Unix timestamp into human readable date with Python](https://datetimecoding.com/how-to-convert-unix-timestamp-into-human-readable-date-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-convert-unix-timestamp-into-human-readable-date-with-python) |
