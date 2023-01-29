@@ -5,6 +5,7 @@ This repo contains code for all date, time, and time zone tutorials published on
 ## Blog Posts and Code
 | **Blog Post** | **Code** |
 |---|---|
+|[How to make reminders using datetime and Python](https://datetimecoding.com/how-to-make-reminders-using-datetime-and-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-make-reminders-using-datetime-and-python) |
 |[3 ways to add days, months, and years to datetime with Python](https://datetimecoding.com/3-ways-to-add-days-months-and-years-to-datetime-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/3-ways-to-add-days-months-and-years-to-datetime-with-python) |
 |[Understanding timedelta objects in Python](https://datetimecoding.com/understanding-timedelta-objects-in-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/understanding-timedelta-objects-in-python) |
 |[How to find difference between two datetime objects in Python](https://datetimecoding.com/how-to-find-difference-between-two-datetime-objects-in-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-find-difference-between-two-datetime-objects-in-python) |
