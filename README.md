@@ -5,6 +5,7 @@ This repo contains code for all date, time, and time zone tutorials published on
 ## Blog Posts and Code
 | **Blog Post** | **Code** |
 |---|---|
+|[Listing all time zones with Python and pytz](https://datetimecoding.com/listing-all-time-zones-with-python-and-pytz/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/listing-all-time-zones-with-python-and-pytz) |
 |[2 ways to humanize time differences with Python](https://datetimecoding.com/2-ways-to-humanize-time-differences-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/2-ways-to-humanize-time-differences-with-python) |
 |[How to make reminders using datetime and Python](https://datetimecoding.com/how-to-make-reminders-using-datetime-and-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-make-reminders-using-datetime-and-python) |
 |[3 ways to add days, months, and years to datetime with Python](https://datetimecoding.com/3-ways-to-add-days-months-and-years-to-datetime-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/3-ways-to-add-days-months-and-years-to-datetime-with-python) |
