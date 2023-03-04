@@ -5,6 +5,7 @@ This repo contains code for all date, time, and time zone tutorials published on
 ## Blog Posts and Code
 | **Blog Post** | **Code** |
 |---|---|
+|[Check, count, and list leap years with Python](https://datetimecoding.com/check-count-and-list-leap-years-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/check-count-and-list-leap-years-with-python) |
 |[How to get age of person (years old) with Python and datetime](https://datetimecoding.com/how-to-get-age-of-person-years-old-with-python-and-datetime/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/how-to-get-age-of-person-years-old-with-python-and-datetime) |
 |[5 ways to correctly convert local time to UTC time with Python](https://datetimecoding.com/5-ways-to-correctly-convert-local-time-to-utc-time-with-python/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/5-ways-to-correctly-convert-local-time-to-utc-time-with-python) |
 |[Listing all time zones with Python and pytz](https://datetimecoding.com/listing-all-time-zones-with-python-and-pytz/)  |[Code](https://github.com/jrosebr1/datetimecoding/tree/main/listing-all-time-zones-with-python-and-pytz) |
